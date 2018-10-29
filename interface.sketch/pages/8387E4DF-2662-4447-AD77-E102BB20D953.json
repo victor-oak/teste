@@ -118,8 +118,8 @@
           "hasConvertedToNewRoundCorners" : true,
           "rotation" : 75,
           "frame" : {
-            "x" : 56,
-            "y" : 99,
+            "x" : 58.888527459703766,
+            "y" : 201.2976903881935,
             "_class" : "rect",
             "constrainProportions" : false,
             "height" : 108,
@@ -162,11 +162,11 @@
               {
                 "_class" : "fill",
                 "color" : {
-                  "red" : 1,
+                  "red" : 0.42267194328656732,
                   "_class" : "color",
                   "alpha" : 1,
-                  "blue" : 0.3122238005050505,
-                  "green" : 0.3122238005050505
+                  "blue" : 0.72065450693548772,
+                  "green" : 0.80862032312925169
                 },
                 "patternTileScale" : 1,
                 "fillType" : 0,
